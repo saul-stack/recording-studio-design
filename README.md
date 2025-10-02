@@ -27,6 +27,8 @@ The dimensions of the room as it currently stands are stated below:
 |--------|-------|--------|
 | 4.97m  | 2.62m | 3.40m  |
 
+![intial-room-layout](/images/room-layout/initial-layout.jpg)
+
 
 The chosen room is rectangular in shape, with a surface area of 77.65m2 and a volume of 44.27m3 : 
  
@@ -306,6 +308,9 @@ and floor would be elevated from the containing structure using elastic material
 the amplitude of energy transmissions from the surrounding rooms. However, this approach to studio 
 design is overly expensive and requires a specific room shape to achieve, and therefore is not suitable 
 for this conversion project. 
+
+### Diagram of the completed studio design
+![final-studio-layout](/images/room-layout/studio-layout.jpg)
 
 ### References
  
