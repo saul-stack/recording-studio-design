@@ -1,4 +1,4 @@
-# Music recording studio design project
+# Recording studio design project
 
 [Final project submission](/1080923%20MP410%20A1.pdf)
  
