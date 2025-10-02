@@ -337,4 +337,3 @@ for this conversion project.
 > - How Weight and Chain Windows Work <https://www.rpwindowsandrestoration.com/blog/2015/4/14/how-weight-and-chain-windows-work-1> 
 >
 > - How To Position Your Studio Monitors For Optimal Sounding Results <https://www.pro-tools-expert.com/production-expert-1/2018/6/6/how-to-position-your-studio-monitors-for-optimal-sounding-results>
- 
